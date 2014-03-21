@@ -1,0 +1,1001 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.2.24)  19 MAR 2014 14:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**submodel.tex
+(./submodel.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)) (./svjour3.cls
+Document Class: svjour3 2007/05/08 v3.2 
+LaTeX document class for Springer journals
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+ (./svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen103
+\headerboxheight=\dimen104
+\betweenumberspace=\dimen105
+\aftertext=\dimen106
+\headlineindent=\dimen107
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen108
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen109
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen110
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen111
+\tabcapgap=\dimen112
+\figgap=\dimen113
+\bibindent=\dimen114
+\@tempcntc=\count104
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count106
+\cp@tempcnt=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen117
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip11
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks19
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks20
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen126
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count122
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count123
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen127
+\Fld@menulength=\count124
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count125
+\c@Item=\count126
+\c@Hfootnote=\count127
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count130
+\float@exts=\toks23
+\float@box=\box31
+\@float@everytoks=\toks24
+\@floatcapt=\box32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count131
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count132
+\c@ALC@line=\count133
+\c@ALC@rem=\count134
+\c@ALC@depth=\count135
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+\c@hypothesis=\count136
+
+(./submodel.aux)
+\openout1 = `submodel.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen130
+\scratchbox=\box33
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen131
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count143
+)
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
+
+(./submodel.out) (./submodel.out)
+\@outlinefile=\write3
+\openout3 = `submodel.out'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+
+
+Package mathptmx Warning: There are no bold math fonts on input line 71.
+
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 71
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 71
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 71
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 71
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 71.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+
+Overfull \hbox (1.61353pt too wide) in paragraph at lines 73--81
+\OT1/ptm/m/n/10 from user-generated con-tent si-mul-ta-ne-ously. We eval-u-ate 
+our
+ []
+
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+Overfull \hbox (5.34315pt too wide) in paragraph at lines 89--93
+\OT1/ptm/m/n/10 mes-sage (i.e. tweet), and vi-ral spread-ing of in-for-ma-tion 
+across
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
+Overfull \hbox (1.89413pt too wide) in paragraph at lines 102--110
+\OT1/ptm/m/n/10 opin-ions are pre-sented and ex-changed by al-low-ing users pub
+-
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Overfull \hbox (1.18304pt too wide) in paragraph at lines 111--118
+\OT1/ptm/m/n/10 iden-ti-fied sub-jec-tiv-ity as the un-der-ly-ing fac-tor that 
+in-flu-ences
+ []
+
+
+Underfull \vbox (badness 2426) has occurred while \output is active []
+
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+Overfull \hbox (5.33348pt too wide) in paragraph at lines 135--146
+\OT1/ptm/m/n/10 con-tent could ex-plain most of retweet-ing be-hav-iors. Co-mar
+ela
+ []
+
+
+Overfull \hbox (5.24327pt too wide) in paragraph at lines 135--146
+\OT1/ptm/m/n/10 posed a feature-aware fac-tor-iza-tion model to rerank the twee
+ts
+ []
+
+[2]
+Overfull \hbox (1.01292pt too wide) in paragraph at lines 162--171
+ []\OT1/ptm/m/it/10 Sentiment Anal-y-sis. [] \OT1/ptm/m/n/10 Sen-ti-ment anal-y
+-sis is a pop-u-lar re-search
+ []
+
+
+Overfull \hbox (8.5431pt too wide) in paragraph at lines 162--171
+\OT1/ptm/m/n/10 with sen-ti-ment, and set-ting apart pos-i-tive from neg-a-tive
+ tweets.
+ []
+
+[3]
+Overfull \hbox (11.09427pt too wide) in paragraph at lines 212--213
+\OT1/ptm/m/n/10 on Twit-ter. Many fac-tors have been proved to in-flu-ence retw
+eet-
+ []
+
+
+Overfull \hbox (6.17366pt too wide) in paragraph at lines 212--213
+\OT1/ptm/m/n/10 can help un-der-stand-ing un-der-ly-ing rea-sons of a user's re
+tweet-
+ []
+
+
+Overfull \hbox (7.06355pt too wide) in paragraph at lines 214--219
+\OT1/ptm/m/n/10 the users who might want to retweet it. We put a much stronger
+ []
+
+
+Overfull \hbox (8.06276pt too wide) in paragraph at lines 250--254
+\OT1/ptm/m/n/10 and re-quire lit-tle su-per-vi-sion. With state-of-the-art topi
+c model
+ []
+
+[4]
+Package epstopdf Info: Source file: <fig1.eps>
+(epstopdf)                    date: 2014-02-08 23:36:55
+(epstopdf)                    size: 15484 bytes
+(epstopdf)             Output file: <fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-18 09:33:14
+(epstopdf)                    size: 10283 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig1-eps-converted-to.pdf 
+fig1.eps>
+(epstopdf)             \includegraphics on input line 265.
+Package epstopdf Info: Output file is already uptodate.
+ <fig1-eps-converted-to.pdf, id=202, 753.81625pt x 284.06125pt>
+File: fig1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig1-eps-converted-to.pdf>
+Package pdftex.def Info: fig1-eps-converted-to.pdf used on input line 265.
+(pdftex.def)             Requested size: 216.80676pt x 72.26778pt.
+
+Overfull \hbox (1.13312pt too wide) in paragraph at lines 258--272
+\OT1/ptm/m/n/10 its con-tent. Pre-vi-ous stud-ies have tried to iden-tify top-i
+cs from
+ []
+
+
+Overfull \hbox (5.03279pt too wide) in paragraph at lines 286--291
+\OT1/ptm/m/n/10 set-tings. Sen-tiStrength as-signs two val-ues to each tweet st
+and-
+ []
+
+
+Overfull \hbox (13.70357pt too wide) in paragraph at lines 286--291
+\OT1/ptm/m/n/10 the con-ve-nience cal-cu-la-tion, we map the out-put of Sen-tiS
+trength
+ []
+
+
+Overfull \hbox (3.3944pt too wide) in paragraph at lines 300--303
+\OT1/ptm/m/n/10 neg-a-tive sent-ment value. In the sen-ti-ment va-lence space $
+\OT1/ztmcm/m/n/10 [0\OML/ztmcm/m/it/10 ; \OT1/ztmcm/m/n/10 8]$\OT1/ptm/m/n/10 ,
+
+ []
+
+
+Overfull \hbox (3.97363pt too wide) in paragraph at lines 307--312
+\OT1/ptm/m/n/10 struct Lo-cal Topic Space $\OML/ztmcm/m/it/10 T \OT1/ztmcm/m/n/
+10 = []$\OT1/ptm/m/n/10 . A topic model
+ []
+
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.312 
+       <./fig1-eps-converted-to.pdf>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 314.
+
+Underfull \hbox (badness 1062) in paragraph at lines 333--334
+[] []\OT1/ptm/m/n/8.5 topics of $\OML/ztmcm/m/it/8.5 m$ \OT1/ptm/m/n/8.5 can be
+ iden-ti-fied by the topic model, $\OML/ztmcm/m/it/8.5 Z[] \OT1/ztmcm/m/n/8.5 =
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--343
+[] []\OT1/ptm/m/n/8.5 establishing sub-jec-tiv-ity model of user $\OML/ztmcm/m/
+it/8.5 u$\OT1/ptm/m/n/8.5 , $\OML/ztmcm/m/it/8.5 P [] \OT1/ztmcm/m/n/8.5 =
+ []
+
+
+Overfull \hbox (9.4236pt too wide) in paragraph at lines 396--413
+\OT1/ptm/m/n/10 [[]], which was cre-ated with Twit-ter API[][][][][]. To form t
+he dataset,
+ []
+
+[6]
+Package epstopdf Info: Source file: <fig2.eps>
+(epstopdf)                    date: 2014-02-14 20:53:37
+(epstopdf)                    size: 24044 bytes
+(epstopdf)             Output file: <fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-18 09:33:14
+(epstopdf)                    size: 14589 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig2-eps-converted-to.pdf 
+fig2.eps>
+(epstopdf)             \includegraphics on input line 417.
+Package epstopdf Info: Output file is already uptodate.
+ <fig2-eps-converted-to.pdf, id=274, 279.0425pt x 204.765pt>
+File: fig2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig2-eps-converted-to.pdf>
+Package pdftex.def Info: fig2-eps-converted-to.pdf used on input line 417.
+(pdftex.def)             Requested size: 108.4046pt x 72.27184pt.
+
+Overfull \hbox (2.99998pt too wide) in paragraph at lines 429--430
+[]\OT1/ptm/b/n/10 TTF\OT1/ptm/m/n/10 : \OT1/ptm/b/n/10 T\OT1/ptm/m/n/10 opic si
+m-i-lar-ity be-tween \OT1/ptm/b/n/10 T\OT1/ptm/m/n/10 weet and \OT1/ptm/b/n/10 
+F\OT1/ptm/m/n/10 ollower ($\OML/ztmcm/m/it/10 ^^U \OT1/ztmcm/m/n/10 =
+ []
+
+
+Overfull \hbox (5.10344pt too wide) in paragraph at lines 433--434
+[]\OT1/ptm/b/n/10 OAF\OT1/ptm/m/n/10 : \OT1/ptm/b/n/10 O\OT1/ptm/m/n/10 pinion 
+sim-i-lar-ity be-tween \OT1/ptm/b/n/10 P\OT1/ptm/m/n/10 ublisher and \OT1/ptm/b
+/n/10 F\OT1/ptm/m/n/10 ollower
+ []
+
+
+Overfull \hbox (11.76326pt too wide) in paragraph at lines 434--435
+[]\OT1/ptm/b/n/10 SAF\OT1/ptm/m/n/10 : \OT1/ptm/b/n/10 S\OT1/ptm/m/n/10 ubjecti
+ve sim-i-lar-ity be-tween \OT1/ptm/b/n/10 P\OT1/ptm/m/n/10 ublisher and \OT1/pt
+m/b/n/10 F\OT1/ptm/m/n/10 ollower
+ []
+
+Package epstopdf Info: Source file: <fig3.eps>
+(epstopdf)                    date: 2014-02-14 22:44:07
+(epstopdf)                    size: 252947 bytes
+(epstopdf)             Output file: <fig3-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-18 09:33:15
+(epstopdf)                    size: 39813 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig3-eps-converted-to.pdf 
+fig3.eps>
+(epstopdf)             \includegraphics on input line 444.
+Package epstopdf Info: Output file is already uptodate.
+<fig3-eps-converted-to.pdf, id=286, 845.1575pt x 597.23125pt>
+File: fig3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig3-eps-converted-to.pdf>
+Package pdftex.def Info: fig3-eps-converted-to.pdf used on input line 444.
+(pdftex.def)             Requested size: 216.80836pt x 144.54134pt.
+
+Overfull \hbox (7.65271pt too wide) in paragraph at lines 450--451
+[]\OT1/ptm/m/n/10 TTF score shows that a tweet is more likely to be retweeted
+ []
+
+
+Overfull \hbox (7.4632pt too wide) in paragraph at lines 453--454
+\OT1/ptm/m/n/10 au-thor with sim-i-lar in-ter-ests , which ver-i-fies the ho-mo
+phily
+ []
+
+
+Overfull \hbox (11.25363pt too wide) in paragraph at lines 455--456
+\OT1/ptm/m/n/10 retweet-ing, and we call this phe-nomenon ``tight ho-mophily''
+ []
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.456 \end{itemize}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.456 \end{itemize}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.456 \end{itemize}
+                    <./fig2-eps-converted-to.pdf> <./fig3-eps-converted-to.pdf>
+]
+Package epstopdf Info: Source file: <fig4.eps>
+(epstopdf)                    date: 2014-02-14 22:51:37
+(epstopdf)                    size: 173730 bytes
+(epstopdf)             Output file: <fig4-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-18 09:33:16
+(epstopdf)                    size: 66066 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig4-eps-converted-to.pdf 
+fig4.eps>
+(epstopdf)             \includegraphics on input line 482.
+Package epstopdf Info: Output file is already uptodate.
+ <fig4-eps-converted-to.pdf, id=316, 845.1575pt x 597.23125pt>
+File: fig4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig4-eps-converted-to.pdf>
+Package pdftex.def Info: fig4-eps-converted-to.pdf used on input line 482.
+(pdftex.def)             Requested size: 252.94308pt x 158.99457pt.
+
+Overfull \hbox (13.97891pt too wide) in paragraph at lines 482--483
+ [][] 
+ []
+
+
+Overfull \hbox (5.24356pt too wide) in paragraph at lines 475--487
+\OT1/ptm/m/n/10 Ac-cu-racy is our eval-u-a-tion met-ric. Per-for-mances of our 
+model
+ []
+
+
+Overfull \hbox (14.20311pt too wide) in paragraph at lines 488--493
+\OT1/ptm/m/n/10 to TTF (Topic sim-i-lar-ity be-tween Tweet and Fol-low-ers, 63.
+88%)
+ []
+
+
+Overfull \hbox (10.97368pt too wide) in paragraph at lines 500--527
+\OT1/ptm/m/n/10 line (marked as ``RB''), for which fol-low-ers who have retweet
+ed
+ []
+
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.527 
+       <./fig4-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fig5.eps>
+(epstopdf)                    date: 2014-02-14 22:15:57
+(epstopdf)                    size: 1729454 bytes
+(epstopdf)             Output file: <fig5-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-18 09:33:17
+(epstopdf)                    size: 370946 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig5-eps-converted-to.pdf 
+fig5.eps>
+(epstopdf)             \includegraphics on input line 544.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig5-eps-converted-to.pdf, id=339, 845.1575pt x 586.19pt>
+File: fig5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig5-eps-converted-to.pdf>
+Package pdftex.def Info: fig5-eps-converted-to.pdf used on input line 544.
+(pdftex.def)             Requested size: 397.4949pt x 231.26076pt.
+Package epstopdf Info: Source file: <fig6.eps>
+(epstopdf)                    date: 2014-02-14 22:03:39
+(epstopdf)                    size: 1685524 bytes
+(epstopdf)             Output file: <fig6-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-18 09:33:19
+(epstopdf)                    size: 359983 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig6-eps-converted-to.pdf 
+fig6.eps>
+(epstopdf)             \includegraphics on input line 551.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig6-eps-converted-to.pdf, id=343, 677.53125pt x 592.2125pt>
+File: fig6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig6-eps-converted-to.pdf>
+Package pdftex.def Info: fig6-eps-converted-to.pdf used on input line 551.
+(pdftex.def)             Requested size: 231.26733pt x 144.53758pt.
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no ™ in font ptmri7t!
+
+Overfull \hbox (0.7634pt too wide) in paragraph at lines 564--567
+\OT1/ptm/m/n/10 user retweet-ing be-hav-ior on Twit-ter. We as-sume that retwee
+t-
+ []
+
+
+Overfull \hbox (4.46254pt too wide) in paragraph at lines 564--567
+\OT1/ptm/m/n/10 lever-ag-ing sta-tis-ti-cal topic model and sen-ti-ment anal-y-
+sis tech-
+ []
+
+
+Overfull \hbox (3.81305pt too wide) in paragraph at lines 564--567
+\OT1/ptm/m/n/10 retweet-ing anal-y-sis prob-lem and show that sub-jec-tiv-ity m
+odel
+ []
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{table.2}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.571 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.571 
+       <./fig6-eps-converted-to.pdf>] (./submodel.bbl
+Underfull \hbox (badness 1038) in paragraph at lines 63--68
+\OT1/ptm/m/n/8.5 sub-jec-tive time, and other minds.  Jour-nal of Ex-per-i-men-
+tal
+ []
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.107 
+       <./fig5-eps-converted-to.pdf>]
+Underfull \hbox (badness 2426) in paragraph at lines 148--154
+[]\OT1/ptm/m/n/8.5 Macskassy, S.A., Michel-son, M.: Why do peo-ple retweet?
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 148--154
+\OT1/ptm/m/n/8.5 anti-homophily wins the day!  In: L.A. Adamic, R.A.
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 148--154
+\OT1/ptm/m/n/8.5 Baeza-Yates, S. Counts (eds.) ICWSM. The AAAI Press
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 156--162
+\OT1/ptm/m/n/8.5 Ho-mophily in so-cial net-works.  An-nual Re-view of So-ci-ol-
+
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 164--169
+[]\OT1/ptm/m/n/8.5 Moore, J., Hag-gard, P.: Aware-ness of ac-tion: In-fer-ence
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 164--169
+\OT1/ptm/m/n/8.5 and pre-dic-tion.  Con-scious-ness and Cog-ni-tion \OT1/ptm/b/
+n/8.5 17\OT1/ptm/m/n/8.5 (1), 136--
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 164--169
+\OT1/ptm/m/n/8.5 144 (2008).  DOI $10 . 1016 / j . concog . 2006 . 12 . 004$.  
+URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--169
+[][]$\OT1/cmtt/m/n/8.5 http : / / search . ebscohost . com / login . aspx ? dir
+ect =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--256
+\OT1/ptm/m/n/8.5 URL [][]$\OT1/cmtt/m/n/8.5 http : / / ieeexplore . ieee . org 
+/ lpdocs / epic03 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--256
+\OT1/cmtt/m/n/8.5 wrapper . htm ? arnumber = 5590452http : / / dx . doi . org /
+ 10 .
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 278--284
+[]\OT1/ptm/m/n/8.5 Weng, J., Lim, E.P., Jiang, J., He, Q.: Twit-ter-rank: find-
+ing
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 278--284
+\OT1/ptm/m/n/8.5 N. Craswell, B.L. 0001 (eds.) WSDM, pp. 261--270. ACM
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 295--301
+[]\OT1/ptm/m/n/8.5 Yang, Z., Guo, J., Cai, K., Tang, J., Li, J., 0007, L.Z.,
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 295--301
+\OT1/ptm/m/n/8.5 Su, Z.: Un-der-stand-ing retweet-ing be-hav-iors in so-cial ne
+t-
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 295--301
+\OT1/ptm/m/n/8.5 works.  In: J. Huang, N. Koudas, G.J.F. Jones, X. Wu,
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 589.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 589.
+ (./submodel.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 589.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
+Package rerunfilecheck Info: File `submodel.out' has not changed.
+(rerunfilecheck)             Checksum: 35492489DDBEF672B733174E0D407A86;238.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 589.
+ ) 
+Here is how much of TeX's memory you used:
+ 7380 strings out of 493307
+ 107384 string characters out of 6139905
+ 204757 words of memory out of 5000000
+ 10566 multiletter control sequences out of 15000+600000
+ 51955 words of font info for 124 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 29i,12n,33p,512b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/sym
+bol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on submodel.pdf (11 pages, 1016820 bytes).
+PDF statistics:
+ 495 PDF objects out of 1000 (max. 8388607)
+ 387 compressed objects within 4 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
