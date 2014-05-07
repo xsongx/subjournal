@@ -6,50 +6,79 @@
   \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem{Abel:2011AUM}
+\bibitem{abel2011analyzing}
 Abel, F., Gao, Q., Houben, G.J., Tao, K.: Analyzing user modeling on twitter
   for personalized news recommendations.
-\newblock In: Proceedings of the 19th international conference on User
-  modeling, adaption, and personalization, UMAP'11, pp. 1--12. Springer-Verlag,
-  Berlin, Heidelberg (2011).
-\newblock \urlprefix\url{http://dl.acm.org/citation.cfm?id=2021855.2021857}
+\newblock In: User Modeling, Adaption and Personalization, pp. 1--12. Springer
+  (2011)
 
-\bibitem{AsiaeeT:2012}
-Asiaee~T., A., Tepper, M., Banerjee, A., Sapiro, G.: If you are happy and you
-  know it... tweet.
-\newblock In: Proceedings of the 21st ACM international conference on
-  Information and knowledge management, CIKM '12, pp. 1602--1606. ACM, New
-  York, NY, USA (2012).
-\newblock \doi{10.1145/2396761.2398481}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/2396761.2398481}
+\bibitem{ahmed2011scalable}
+Ahmed, A., Low, Y., Aly, M., Josifovski, V., Smola, A.J.: Scalable distributed
+  inference of dynamic user interests for behavioral targeting.
+\newblock In: Proceedings of the 17th ACM SIGKDD international conference on
+  Knowledge discovery and data mining, pp. 114--122. ACM (2011)
+
+\bibitem{armentano2011recommending}
+Armentano, M.G., Godoy, D., Amandi, A.: Recommending information sources to
+  information seekers in twitter.
+\newblock In: International Workshop on Social Web Mining. Citeseer (2011)
+
+\bibitem{barbosa2010robust}
+Barbosa, L., Feng, J.: Robust sentiment detection on twitter from biased and
+  noisy data.
+\newblock In: Proceedings of the 23rd International Conference on Computational
+  Linguistics: Posters, pp. 36--44. Association for Computational Linguistics
+  (2010)
 
 \bibitem{blei2003latent}
 Blei, D., Ng, A., Jordan, M.: Latent dirichlet allocation.
 \newblock the Journal of machine Learning research \textbf{3}, 993--1022 (2003)
 
-\bibitem{Boyd2010}
-Boyd, D., Golder, S., Lotan, G.: {Tweet, Tweet, Retweet: Conversational Aspects
-  of Retweeting on Twitter}.
-\newblock In: 2010 43rd Hawaii International Conference on System Sciences,
-  vol.~0, pp. 1--10. Kauai, HI (2010).
-\newblock \doi{10.1109/HICSS.2010.412}
+\bibitem{boyd2010tweet}
+Boyd, D., Golder, S., Lotan, G.: Tweet, tweet, retweet: Conversational aspects
+  of retweeting on twitter.
+\newblock In: System Sciences (HICSS), 2010 43rd Hawaii International
+  Conference on, pp. 1--10. IEEE (2010)
 
-\bibitem{CalaisGuerra:2011BOT}
-Calais~Guerra, P.H., Veloso, A., Meira Jr., W., Almeida, V.: From bias to
-  opinion: a transfer-learning approach to real-time sentiment analysis.
-\newblock In: Proceedings of the 17th ACM SIGKDD international conference on
-  Knowledge discovery and data mining, KDD '11, pp. 150--158. ACM, New York,
-  NY, USA (2011).
-\newblock \doi{10.1145/2020408.2020438}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/2020408.2020438}
+\bibitem{brody2011col}
+Brody, S., Diakopoulos, N.: Cooooooooooooooollllllllllllll!!!!!!!!!!!!!!: using
+  word lengthening to detect sentiment in microblogs.
+\newblock In: Proceedings of the Conference on Empirical Methods in Natural
+  Language Processing, pp. 562--570. Association for Computational Linguistics
+  (2011)
 
-\bibitem{Chen:2010STE}
+\bibitem{castillo2011information}
+Castillo, C., Mendoza, M., Poblete, B.: Information credibility on twitter.
+\newblock In: Proceedings of the 20th international conference on World wide
+  web, pp. 675--684. ACM (2011)
+
+\bibitem{chang2009relational}
+Chang, J., Blei, D.M.: Relational topic models for document networks.
+\newblock In: International Conference on Artificial Intelligence and
+  Statistics, pp. 81--88 (2009)
+
+\bibitem{chen2010short}
 Chen, J., Nairn, R., Nelson, L., Bernstein, M., Chi, E.: Short and tweet:
   experiments on recommending content from information streams.
 \newblock In: Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems, CHI '10, pp. 1185--1194. ACM, New York, NY, USA (2010).
-\newblock \doi{10.1145/1753326.1753503}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/1753326.1753503}
+  Computing Systems, pp. 1185--1194. ACM (2010)
+
+\bibitem{chen2012collaborative}
+Chen, K., Chen, T., Zheng, G., Jin, O., Yao, E., Yu, Y.: Collaborative
+  personalized tweet recommendation.
+\newblock In: Proceedings of the 35th international ACM SIGIR conference on
+  Research and development in information retrieval, pp. 661--670. ACM (2012)
+
+\bibitem{chen2009large}
+Chen, Y., Pavlov, D., Canny, J.F.: Large-scale behavioral targeting.
+\newblock In: Proceedings of the 15th ACM SIGKDD international conference on
+  Knowledge discovery and data mining, pp. 209--218. ACM (2009)
+
+\bibitem{chua2013generative}
+Chua, F.C.T., Lauw, H.W., Lim, E.P.: Generative models for item adoptions using
+  social correlation.
+\newblock Knowledge and Data Engineering, IEEE Transactions on \textbf{25}(9),
+  2036--2048 (2013)
 
 \bibitem{Comarela:2012UFA}
 Comarela, G., Crovella, M., Almeida, V., Benevenuto, F.: Understanding factors
@@ -59,12 +88,30 @@ Comarela, G., Crovella, M., Almeida, V., Benevenuto, F.: Understanding factors
 \newblock \doi{10.1145/2309996.2310017}.
 \newblock \urlprefix\url{http://doi.acm.org/10.1145/2309996.2310017}
 
+\bibitem{cornelius1996science}
+Cornelius, R.R.: The science of emotion: Research and tradition in the
+  psychology of emotions.
+\newblock Prentice-Hall, Inc (1996)
+
+\bibitem{davidov2010enhanced}
+Davidov, D., Tsur, O., Rappoport, A.: Enhanced sentiment learning using twitter
+  hashtags and smileys.
+\newblock In: Proceedings of the 23rd International Conference on Computational
+  Linguistics: Posters, pp. 241--249. Association for Computational Linguistics
+  (2010)
+
 \bibitem{Engbert2007}
 Engbert, K., Wohlschl\"{a}ger, A., Thomas, R., Haggard, P.: {Agency, subjective
   time, and other minds.}
 \newblock Journal of Experimental Psychology: Human Perception and Performance
   \textbf{33}(6), 1261--1268 (2007).
 \newblock \urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18085941}
+
+\bibitem{fang2012mining}
+Fang, Y., Si, L., Somasundaram, N., Yu, Z.: Mining contrastive opinions on
+  political texts using cross-perspective topic model.
+\newblock In: Proceedings of the fifth ACM international conference on Web
+  search and data mining, pp. 63--72. ACM (2012)
 
 \bibitem{conf/wsdm/FengW13}
 Feng, W., Wang, J.: Retweet or not?: personalized tweet re-ranking.
@@ -73,13 +120,21 @@ Feng, W., Wang, J.: Retweet or not?: personalized tweet re-ranking.
 \newblock
   \urlprefix\url{http://dblp.uni-trier.de/db/conf/wsdm/wsdm2013.html#FengW13}
 
-\bibitem{Hannon:2010}
+\bibitem{fox2008emotion}
+Fox, E.: Emotion science cognitive and neuroscientific approaches to
+  understanding human emotions.
+\newblock Palgrave Macmillan (2008)
+
+\bibitem{go2009twitter}
+Go, A., Bhayani, R., Huang, L.: Twitter sentiment classification using distant
+  supervision.
+\newblock CS224N Project Report, Stanford pp. 1--12 (2009)
+
+\bibitem{hannon2010recommending}
 Hannon, J., Bennett, M., Smyth, B.: Recommending twitter users to follow using
   content and collaborative filtering approaches.
 \newblock In: Proceedings of the fourth ACM conference on Recommender systems,
-  RecSys '10, pp. 199--206. ACM, New York, NY, USA (2010).
-\newblock \doi{10.1145/1864708.1864746}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/1864708.1864746}
+  pp. 199--206. ACM (2010)
 
 \bibitem{ericmedvet:hong2011}
 Hong, L., Dan, O., Davison, B.D.: {Predicting popular messages in Twitter}.
@@ -88,27 +143,16 @@ Hong, L., Dan, O., Davison, B.D.: {Predicting popular messages in Twitter}.
 \newblock \doi{10.1145/1963192.1963222}.
 \newblock \urlprefix\url{http://dx.doi.org/10.1145/1963192.1963222}
 
-\bibitem{Hu:2013www}
-Hu, X., Tang, J., Gao, H., Liu, H.: Unsupervised sentiment analysis with
-  emotional signals.
-\newblock In: Proceedings of the 22nd international conference on World Wide
-  Web, WWW '13, pp. 607--618. International World Wide Web Conferences Steering
-  Committee, Republic and Canton of Geneva, Switzerland (2013).
-\newblock \urlprefix\url{http://dl.acm.org/citation.cfm?id=2488388.2488442}
-
-\bibitem{Hu:2013ESR}
-Hu, X., Tang, L., Tang, J., Liu, H.: Exploiting social relations for sentiment
-  analysis in microblogging.
-\newblock In: Proceedings of the sixth ACM international conference on Web
-  search and data mining, WSDM '13, pp. 537--546. ACM, New York, NY, USA
-  (2013).
-\newblock \doi{10.1145/2433396.2433465}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/2433396.2433465}
-
 \bibitem{Hyman2000}
 Hyman, J.: {Three Fallacies about Action}.
 \newblock Behavioral and Brain Sciences \textbf{23}, 665--666 (2000).
 \newblock \doi{10.1017/S0140525X00223431}
+
+\bibitem{ikegami2013topic}
+Ikegami, Y., Kawai, K., Namihira, Y., Tsuruta, S.: Topic and opinion
+  classification based information credibility analysis on twitter.
+\newblock In: Systems, Man, and Cybernetics (SMC), 2013 IEEE International
+  Conference on, pp. 4676--4681. IEEE (2013)
 
 \bibitem{Jenders:2013APV}
 Jenders, M., Kasneci, G., Naumann, F.: Analyzing and predicting viral tweets.
@@ -118,22 +162,77 @@ Jenders, M., Kasneci, G., Naumann, F.: Analyzing and predicting viral tweets.
   (2013).
 \newblock \urlprefix\url{http://dl.acm.org/citation.cfm?id=2487788.2488017}
 
-\bibitem{Jiang:2011TTS}
-Jiang, L., Yu, M., Zhou, M., Liu, X., Zhao, T.: Target-dependent twitter
-  sentiment classification.
-\newblock In: Proceedings of the 49th Annual Meeting of the Association for
-  Computational Linguistics: Human Language Technologies - Volume 1, HLT '11,
-  pp. 151--160. Association for Computational Linguistics, Stroudsburg, PA, USA
-  (2011).
-\newblock \urlprefix\url{http://dl.acm.org/citation.cfm?id=2002472.2002492}
+\bibitem{jo2011aspect}
+Jo, Y., Oh, A.H.: Aspect and sentiment unification model for online review
+  analysis.
+\newblock In: Proceedings of the fourth ACM international conference on Web
+  search and data mining, pp. 815--824. ACM (2011)
 
-\bibitem{Kwak:2010TSN}
+\bibitem{kang2013lda}
+Kang, J.H., Lerman, K., Getoor, L.: La-lda: a limited attention topic model for
+  social recommendation.
+\newblock In: Social Computing, Behavioral-Cultural Modeling and Prediction,
+  pp. 211--220. Springer (2013)
+
+\bibitem{kawamae2010author}
+Kawamae, N.: Author interest topic model.
+\newblock In: Proceedings of the 33rd international ACM SIGIR conference on
+  Research and development in information retrieval, pp. 887--888. ACM (2010)
+
+\bibitem{kawamae2010latent}
+Kawamae, N.: Latent interest-topic model: finding the causal relationships
+  behind dyadic data.
+\newblock In: Proceedings of the 19th ACM international conference on
+  Information and knowledge management, pp. 649--658. ACM (2010)
+
+\bibitem{kumar2010characterization}
+Kumar, R., Tomkins, A.: A characterization of online browsing behavior.
+\newblock In: Proceedings of the 19th international conference on World wide
+  web, pp. 561--570. ACM (2010)
+
+\bibitem{kwak2010twitter}
 Kwak, H., Lee, C., Park, H., Moon, S.: What is twitter, a social network or a
   news media?
 \newblock In: Proceedings of the 19th international conference on World wide
-  web, WWW '10, pp. 591--600. ACM, New York, NY, USA (2010).
-\newblock \doi{10.1145/1772690.1772751}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/1772690.1772751}
+  web, pp. 591--600. ACM (2010)
+
+\bibitem{lazarsfeld_friendship_1954}
+Lazarsfeld, P.F., Merton, R.K.: Friendship as a social process: A substantive
+  and methodological analysis.
+\newblock In: M.~Berger, T.~Abel (eds.) Freedom and control in modern society.
+  Van Nostrand, New York (1954)
+
+\bibitem{lek2013aspect}
+Lek, H.H., Poo, D.C.: Aspect-based twitter sentiment classification.
+\newblock In: Tools with Artificial Intelligence (ICTAI), 2013 IEEE 25th
+  International Conference on, pp. 366--373. IEEE (2013)
+
+\bibitem{li2012mining}
+Li, D., Shuai, X., Sun, G., Tang, J., Ding, Y., Luo, Z.: Mining topic-level
+  opinion influence in microblog.
+\newblock In: Proceedings of the 21st ACM international conference on
+  Information and knowledge management, pp. 1562--1566. ACM (2012)
+
+\bibitem{liao2012mining}
+Liao, Y., Moshtaghi, M., Han, B., Karunasekera, S., Kotagiri, R., Baldwin, T.,
+  Harwood, A., Pattison, P.: Mining micro-blogs: opportunities and challenges.
+\newblock In: Computational Social Networks, pp. 129--159. Springer (2012)
+
+\bibitem{lin2009joint}
+Lin, C., He, Y.: Joint sentiment/topic model for sentiment analysis.
+\newblock In: Proceedings of the 18th ACM conference on Information and
+  knowledge management, pp. 375--384. ACM (2009)
+
+\bibitem{liu2009topic}
+Liu, Y., Niculescu-Mizil, A., Gryc, W.: Topic-link lda: joint models of topic
+  and author community.
+\newblock In: Proceedings of the 26th Annual International Conference on
+  Machine Learning, pp. 665--672. ACM (2009)
+
+\bibitem{lu2008opinion}
+Lu, Y., Zhai, C.: Opinion integration through semi-supervised topic modeling.
+\newblock In: Proceedings of the 17th international conference on World Wide
+  Web, pp. 121--130. ACM (2008)
 
 \bibitem{Luo:2013RMF}
 Luo, Z., Osborne, M., Tang, J., Wang, T.: Who will retweet me?: finding
@@ -152,13 +251,31 @@ Macskassy, S.A., Michelson, M.: Why do people retweet? anti-homophily wins the
 \newblock
   \urlprefix\url{http://dblp.uni-trier.de/db/conf/icwsm/icwsm2011.html#MacskassyM11}
 
+\bibitem{mccallum2005topic}
+McCallum, A., Corrada-Emmanuel, A., Wang, X.: Topic and role discovery in
+  social networks.
+\newblock Computer Science Department Faculty Publication Series p.~3 (2005)
+
 \bibitem{mcpherson2001birds}
 McPherson, M., Smith-Lovin, L., Cook, J.M.: Birds of a feather: Homophily in
   social networks.
-\newblock Annual Review of Sociology \textbf{27}(1), 415--444 (2001).
-\newblock \doi{10.1146/annurev.soc.27.1.415}.
-\newblock
-  \urlprefix\url{http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415}
+\newblock Annual review of sociology pp. 415--444 (2001)
+
+\bibitem{mei2007topic}
+Mei, Q., Ling, X., Wondra, M., Su, H., Zhai, C.: Topic sentiment mixture:
+  modeling facets and opinions in weblogs.
+\newblock In: Proceedings of the 16th international conference on World Wide
+  Web, pp. 171--180. ACM (2007)
+
+\bibitem{michelson2010discovering}
+Michelson, M., Macskassy, S.A.: Discovering users' topics of interest on
+  twitter: a first look.
+\newblock In: Proceedings of the fourth workshop on Analytics for noisy
+  unstructured text data, pp. 73--80. ACM (2010)
+
+\bibitem{mimno2007expertise}
+Mimno, D., McCallum, A.: Expertise modeling for matching papers with reviewers
+  (2007)
 
 \bibitem{Moore2008}
 Moore, J., Haggard, P.: {Awareness of action: Inference and prediction}.
@@ -184,19 +301,17 @@ Naveed, N., Gottron, T., Kunegis, J., Alhadi, A.C.: Searching microblogs:
 \newblock \doi{10.1145/2063576.2063607}.
 \newblock \urlprefix\url{http://doi.acm.org/10.1145/2063576.2063607}
 
+\bibitem{pathak2008social}
+Pathak, N., DeLong, C., Banerjee, A., Erickson, K.: Social topic models for
+  community extraction.
+\newblock In: the 2nd SNA-KDD Workshop, vol.~8. Citeseer (2008)
+
 \bibitem{scikit-learn}
 Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
   O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
   Passos, A., Cournapeau, D., Brucher, M., Perrot, M., Duchesnay, E.:
   Scikit-learn: Machine learning in {P}ython.
 \newblock Journal of Machine Learning Research \textbf{12}, 2825--2830 (2011)
-
-\bibitem{Pennacchiotti:icwsm11}
-Pennacchiotti, M., Popescu, A.M.: {A Machine Learning Approach to Twitter User
-  Classification}.
-\newblock In: International AAAI Conference on Weblogs and Social Media (2011).
-\newblock
-  \urlprefix\url{http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2886}
 
 \bibitem{Osborne_Lavrenko_2011}
 Petrovic, S., Osborne, M., Lavrenko, V.: Rt to win! predicting message
@@ -211,11 +326,33 @@ Pfitzner, R., Garas, A., Schweitzer, F.: Emotional divergence influences
 \newblock
   \urlprefix\url{http://dblp.uni-trier.de/db/conf/icwsm/icwsm2012.html#PfitznerGS12}
 
-\bibitem{RamageEtAl:10}
+\bibitem{phelan2011terms}
+Phelan, O., McCarthy, K., Bennett, M., Smyth, B.: Terms of a feather:
+  Content-based news recommendation and discovery using twitter.
+\newblock In: Advances in Information Retrieval, pp. 448--459. Springer (2011)
+
+\bibitem{purushotham2012collaborative}
+Purushotham, S., Liu, Y., Kuo, C.C.J.: Collaborative topic regression with
+  social matrix factorization for recommendation systems.
+\newblock arXiv preprint arXiv:1206.4684  (2012)
+
+\bibitem{ramage10microblogs}
 Ramage, D., Dumais, S., Liebling, D.: Characterizing microblogs with topic
   models.
-\newblock In: Proceedings of the Fourth International AAAI Conference on
-  Weblogs and Social Media. AAAI (2010)
+\newblock In: ICWSM (2010)
+
+\bibitem{ramage2009labeled}
+Ramage, D., Hall, D., Nallapati, R., Manning, C.D.: Labeled lda: A supervised
+  topic model for credit attribution in multi-labeled corpora.
+\newblock In: Proceedings of the 2009 Conference on Empirical Methods in
+  Natural Language Processing: Volume 1-Volume 1, pp. 248--256. Association for
+  Computational Linguistics (2009)
+
+\bibitem{read2005using}
+Read, J.: Using emoticons to reduce dependency in machine learning techniques
+  for sentiment classification.
+\newblock In: Proceedings of the ACL Student Research Workshop, pp. 43--48.
+  Association for Computational Linguistics (2005)
 
 \bibitem{rehurek_lrec}
 {\v R}eh{\r u}{\v r}ek, R., Sojka, P.: {Software Framework for Topic Modelling
@@ -223,6 +360,22 @@ Ramage, D., Dumais, S., Liebling, D.: Characterizing microblogs with topic
 \newblock In: {Proceedings of the LREC 2010 Workshop on New Challenges for NLP
   Frameworks}, pp. 45--50. ELRA, Valletta, Malta (2010).
 \newblock \url{http://is.muni.cz/publication/884893/en}
+
+\bibitem{roberts2012empatweet}
+Roberts, K., Roach, M.A., Johnson, J., Guthrie, J., Harabagiu, S.M.: Empatweet:
+  Annotating and detecting emotions on twitter.
+\newblock In: LREC, pp. 3806--3813 (2012)
+
+\bibitem{romero2011influence}
+Romero, D.M., Galuba, W., Asur, S., Huberman, B.A.: Influence and passivity in
+  social media.
+\newblock In: Machine learning and knowledge discovery in databases, pp.
+  18--33. Springer (2011)
+
+\bibitem{saif2012alleviating}
+Saif, H., He, Y., Alani, H.: Alleviating data sparsity for twitter sentiment
+  analysis.
+\newblock CEUR Workshop Proceedings (CEUR-WS. org) (2012)
 
 \bibitem{Starbird:2012RRI}
 Starbird, K., Palen, L.: (how) will the revolution be retweeted?: information
@@ -238,11 +391,23 @@ Stein, D., Wright, S.: Subjectivity and Subjectivisation: Linguistic
 \newblock Cambridge University Press (2005).
 \newblock \urlprefix\url{http://books.google.com.hk/books?id=mWlS5Q8uBYcC}
 
+\bibitem{steyvers2004probabilistic}
+Steyvers, M., Smyth, P., Rosen-Zvi, M., Griffiths, T.: Probabilistic
+  author-topic models for information discovery.
+\newblock In: Proceedings of the tenth ACM SIGKDD international conference on
+  Knowledge discovery and data mining, pp. 306--315. ACM (2004)
+
 \bibitem{DBLP:conf/hicss/StieglitzD12}
 Stieglitz, S., Dang-Xuan, L.: Political communication and influence through
   microblogging-an empirical analysis of sentiment in twitter messages and
   retweet behavior.
 \newblock In: HICSS, pp. 3500--3509. IEEE Computer Society (2012)
+
+\bibitem{stoppard1993gender}
+Stoppard, J.M., Gruchy, C.D.G.: Gender, context, and expression of positive
+  emotion.
+\newblock Personality and Social Psychology Bulletin \textbf{19}(2), 143--150
+  (1993)
 
 \bibitem{Suh2010}
 Suh, B., Hong, L., Pirolli, P., Chi, E.H.: {Want to be Retweeted? Large Scale
@@ -254,25 +419,47 @@ Suh, B., Hong, L., Pirolli, P., Chi, E.H.: {Want to be Retweeted? Large Scale
   \urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5590452
   http://dx.doi.org/10.1109/SocialCom.2010.33}
 
+\bibitem{sun2009novel}
+Sun, A.R., Cheng, J., Zeng, D.D.: A novel recommendation framework for
+  micro-blogging based on information diffusion.
+\newblock In: Proceedings of the 19th Workshop on Information Technologies and
+  Systems (2009)
+
 \bibitem{sunstein2009rumors}
 Sunstein, C.: On Rumors: How Falsehoods Spread, Why We Believe Them, What Can
   Be Done.
 \newblock Farrar, Straus and Giroux (2009).
 \newblock \urlprefix\url{http://books.google.com/books?id=OBoIBIk2qacC}
 
-\bibitem{Thelwall:2012SSD}
-Thelwall, M., Buckley, K., Paltoglou, G.: Sentiment strength detection for the
-  social web.
-\newblock J. Am. Soc. Inf. Sci. Technol. \textbf{63}(1), 163--173 (2012).
-\newblock \doi{10.1002/asi.21662}.
-\newblock \urlprefix\url{http://dx.doi.org/10.1002/asi.21662}
+\bibitem{tan2011user}
+Tan, C., Lee, L., Tang, J., Jiang, L., Zhou, M., Li, P.: User-level sentiment
+  analysis incorporating social networks.
+\newblock In: Proceedings of the 17th ACM SIGKDD international conference on
+  Knowledge discovery and data mining, pp. 1397--1405. ACM (2011)
 
-\bibitem{Thelwall:2010SSS}
-Thelwall, M., Buckley, K., Paltoglou, G., Cai, D., Kappas, A.: Sentiment in
-  short strength detection informal text.
-\newblock J. Am. Soc. Inf. Sci. Technol. \textbf{61}(12), 2544--2558 (2010).
-\newblock \doi{10.1002/asi.v61:12}.
-\newblock \urlprefix\url{http://dx.doi.org/10.1002/asi.v61:12}
+\bibitem{tang2013sentiment}
+Tang, J., Fong, A.: Sentiment diffusion in large scale social networks.
+\newblock In: Consumer Electronics (ICCE), 2013 IEEE International Conference
+  on, pp. 244--245. IEEE (2013)
+
+\bibitem{tchokni2014emoticons}
+Tchokni, S., S{\'e}aghdha, D.O., Quercia, D.: Emoticons and phrases: Status
+  symbols in social media  (2014)
+
+\bibitem{thelwall2009homophily}
+Thelwall, M.: Homophily in myspace.
+\newblock Journal of the American Society for Information Science and
+  Technology \textbf{60}(2), 219--231 (2009)
+
+\bibitem{thelwall2010emotion}
+Thelwall, M.: Emotion homophily in social network site messages.
+\newblock First Monday \textbf{15}(4) (2010)
+
+\bibitem{wang2011collaborative}
+Wang, C., Blei, D.M.: Collaborative topic modeling for recommending scientific
+  articles.
+\newblock In: Proceedings of the 17th ACM SIGKDD international conference on
+  Knowledge discovery and data mining, pp. 448--456. ACM (2011)
 
 \bibitem{conf/wsdm/WengLJH10}
 Weng, J., Lim, E.P., Jiang, J., He, Q.: Twitterrank: finding topic-sensitive
@@ -282,14 +469,17 @@ Weng, J., Lim, E.P., Jiang, J., He, Q.: Twitterrank: finding topic-sensitive
 \newblock
   \urlprefix\url{http://dblp.uni-trier.de/db/conf/wsdm/wsdm2010.html#WengLJH10}
 
-\bibitem{Xu:2012MUP}
-Xu, Z., Zhang, Y., Wu, Y., Yang, Q.: Modeling user posting behavior on social
-  media.
-\newblock In: Proceedings of the 35th international ACM SIGIR conference on
-  Research and development in information retrieval, SIGIR '12, pp. 545--554.
-  ACM, New York, NY, USA (2012).
-\newblock \doi{10.1145/2348283.2348358}.
-\newblock \urlprefix\url{http://doi.acm.org/10.1145/2348283.2348358}
+\bibitem{yan2012tweet}
+Yan, R., Lapata, M., Li, X.: Tweet recommendation with graph co-ranking.
+\newblock In: Proceedings of the 50th Annual Meeting of the Association for
+  Computational Linguistics: Long Papers-Volume 1, pp. 516--525. Association
+  for Computational Linguistics (2012)
+
+\bibitem{yang2011like}
+Yang, S.H., Long, B., Smola, A., Sadagopan, N., Zheng, Z., Zha, H.: Like like
+  alike: joint friendship and interest propagation in social networks.
+\newblock In: Proceedings of the 20th international conference on World wide
+  web, pp. 537--546. ACM (2011)
 
 \bibitem{conf/cikm/YangGCTLZS10}
 Yang, Z., Guo, J., Cai, K., Tang, J., Li, J., 0007, L.Z., Su, Z.: Understanding
@@ -298,5 +488,24 @@ Yang, Z., Guo, J., Cai, K., Tang, J., Li, J., 0007, L.Z., Su, Z.: Understanding
   A.~An (eds.) CIKM, pp. 1633--1636. ACM (2010).
 \newblock
   \urlprefix\url{http://dblp.uni-trier.de/db/conf/cikm/cikm2010.html#YangGCTLZS10}
+
+\bibitem{zhang2013probabilistic}
+Zhang, K., Downey, D., Chen, Z., Xie, Y., Cheng, Y., Agrawal, A., Liao, W.k.,
+  Choudhary, A.: A probabilistic graphical model for brand reputation
+  assessment in social networks.
+\newblock In: Proceedings of the 2013 IEEE/ACM International Conference on
+  Advances in Social Networks Analysis and Mining, pp. 223--230. ACM (2013)
+
+\bibitem{zhao2012user}
+Zhao, T., Li, C., Ding, Q., Li, L.: User-sentiment topic model: refining user's
+  topics with sentiment information.
+\newblock In: Proceedings of the ACM SIGKDD Workshop on Mining Data Semantics,
+  p.~10. ACM (2012)
+
+\bibitem{zhou2006probabilistic}
+Zhou, D., Manavoglu, E., Li, J., Giles, C.L., Zha, H.: Probabilistic models for
+  discovering e-communities.
+\newblock In: Proceedings of the 15th international conference on World Wide
+  Web, pp. 173--182. ACM (2006)
 
 \end{thebibliography}

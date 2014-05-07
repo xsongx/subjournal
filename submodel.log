@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.2.24)  19 MAR 2014 14:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.4)  7 MAY 2014 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **submodel.tex
 (./submodel.tex
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+Babel <3.9h> and hyphenation patterns for 12 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
 
@@ -158,7 +158,7 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
@@ -510,32 +510,526 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Overfull \hbox (5.34315pt too wide) in paragraph at lines 89--93
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
+Underfull \vbox (badness 5189) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+
+Overfull \hbox (1.9936pt too wide) in paragraph at lines 108--112
+\OT1/ptm/m/n/10 One user can read an-other users mes-sages by fol-low-ing them.
+
+ []
+
+
+Overfull \hbox (5.51343pt too wide) in paragraph at lines 108--112
+\OT1/ptm/m/n/10 ships con-nect Twit-ter users and form the so-cial net-work whe
+re
+ []
+
+
+Overfull \hbox (2.82373pt too wide) in paragraph at lines 113--115
+\OT1/ptm/m/n/10 ac-ter rep-e-ti-tion, e.g., by writ-ing cooool in-stead of cool
+. Brody
+ []
+
+
+Overfull \hbox (3.22388pt too wide) in paragraph at lines 116--118
+\OT1/ptm/m/n/10 ing micro-blogging as a novel form of com-mu-ni-ca-tion [][Java
+
+ []
+
+
+Overfull \hbox (0.7636pt too wide) in paragraph at lines 116--118
+\OT1/ptm/m/n/10 ple they con-sider as friends or ac-quain-tances. Al-though pos
+ts
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (4.00371pt too wide) in paragraph at lines 123--124
+[]\OT1/ptm/m/n/10 Chen et al. [[]] com-pared relationship-based and content-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (1.57388pt too wide) in paragraph at lines 128--129
+\OT1/ptm/m/n/10 Rec-om-men-da-tion by com-bin-ing three graphs to-gether. Those
+
+ []
+
+
+Overfull \hbox (2.21309pt too wide) in paragraph at lines 130--131
+\OT1/ptm/m/n/10 same ac-tiv-ity level as in-dis-tin-guish-able from each other 
+when
+ []
+
+
+Overfull \hbox (13.20255pt too wide) in paragraph at lines 130--131
+\OT1/ptm/m/n/10 tional in-di-vid-ual dif-fer-ences. This sim-pli-fi-ca-tion mak
+es stochas-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (3.71312pt too wide) in paragraph at lines 132--133
+\OT1/ptm/m/n/10 Users (Twit-ter-ers) can broad-cast an un-lim-ited amount of me
+s-
+ []
+
+
+Overfull \hbox (2.43329pt too wide) in paragraph at lines 132--133
+\OT1/ptm/m/n/10 re-ceive broad-casts from other users to whose ac-count streams
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+
+Overfull \hbox (1.33363pt too wide) in paragraph at lines 134--136
+\OT1/ptm/m/n/10 com-mu-ni-ties emerge and evolve around shared re-la-tion-ships
+. 
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (2.19351pt too wide) in paragraph at lines 142--144
+\OT1/ptm/m/n/10 Author- Re-cip-i-ent Topic (CART) model [[]]. How-ever, since
+ []
+
+
+Overfull \hbox (0.90308pt too wide) in paragraph at lines 142--144
+\OT1/ptm/m/n/10 i-ni-tion, the top-ics ex-tracted by Labeled-LDA are more mean-
+
+ []
+
+
+Overfull \hbox (7.57347pt too wide) in paragraph at lines 142--144
+\OT1/ptm/m/n/10 ing-ful and dis-tin-guish-able to-wards la-bels. Our pro-posed 
+model
+ []
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no Ø in font ptmr7t!
+
+Overfull \hbox (4.41385pt too wide) in paragraph at lines 152--153
+\OT1/ptm/m/n/10 lo-quial, and can con-tain slangs and ab-bre-vi-a-tions. Thus, 
+many
+ []
+
+
+Overfull \hbox (10.04355pt too wide) in paragraph at lines 152--153
+\OT1/ptm/m/n/10 Part-of-Speech (POS) tag-ger, to-k-enizer, and de-pen-dency par
+ser
+ []
+
+
+Overfull \hbox (10.48335pt too wide) in paragraph at lines 152--153
+\OT1/ptm/m/n/10 fail to work well be-cause they are typ-i-cally trained on news
+wire
+ []
+
+[4]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (3.1143pt too wide) in paragraph at lines 154--155
+\OT1/ptm/m/n/10 sad-dddddd,xxplosive, foooooooood,okaaay and so on. A sen-
+ []
+
+
+Overfull \hbox (7.33308pt too wide) in paragraph at lines 156--157
+\OT1/ptm/m/n/10 tion to im-prove the sen-ti-ment clas-si-fi-ca-tion per-for-man
+ce based
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (4.14362pt too wide) in paragraph at lines 161--168
+\OT1/ptm/m/n/10 user-level frame-work. The rea-son we adopt a semi-supervised
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Overfull \hbox (14.86281pt too wide) in paragraph at lines 169--170
+\OT1/ptm/m/n/10 ships and not just in-ti-mate re-la-tion-ships. Par-tic-u-larly
+ for women,
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (21.82283pt too wide) in paragraph at lines 177--178
+\OT1/ptm/m/n/10 press emo-tions less for-mally than other pub-lish-ing plat-for
+ms.Such
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (42.48306pt too wide) in paragraph at lines 179--181
+\OT1/ptm/m/n/10 THAT????), em-phatic length-en-ing (The con-cert was greeeeeeee
+eaat!!!)
+ []
+
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+
+LaTeX Warning: Citation `Abel:2011AUM' on page 7 undefined on input line 199.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (1.09326pt too wide) in paragraph at lines 198--201
+\OT1/ptm/m/n/10 these net-works can con-tain com-mu-ni-ties of users with share
+d
+ []
+
+
+Overfull \hbox (0.55313pt too wide) in paragraph at lines 198--201
+\OT1/ptm/m/n/10 in-ter-ests. In ad-di-tion, the con-ver-sa-tions that take plac
+e within
+ []
+
+
+Overfull \hbox (0.4436pt too wide) in paragraph at lines 198--201
+\OT1/ptm/m/n/10 these con-ver-sa-tions, has the po-ten-tial to pro-vide a rich 
+source
+ []
+
+
+Overfull \hbox (1.45352pt too wide) in paragraph at lines 198--201
+\OT1/ptm/m/n/10 of user pref-er-ence and in-ter-est data, notwith-stand-ing the
+ 140-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (5.34315pt too wide) in paragraph at lines 202--206
 \OT1/ptm/m/n/10 mes-sage (i.e. tweet), and vi-ral spread-ing of in-for-ma-tion 
 across
  []
 
 
-Underfull \vbox (badness 1377) has occurred while \output is active []
+LaTeX Warning: Citation `Abel:2011AUM' on page 7 undefined on input line 215.
 
 
-Overfull \hbox (1.89413pt too wide) in paragraph at lines 102--110
+LaTeX Warning: Citation `Pennacchiotti:icwsm11' on page 7 undefined on input li
+ne 217.
+
+
+Overfull \hbox (1.89413pt too wide) in paragraph at lines 215--223
 \OT1/ptm/m/n/10 opin-ions are pre-sented and ex-changed by al-low-ing users pub
 -
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-
-]
-Overfull \hbox (1.18304pt too wide) in paragraph at lines 111--118
+Overfull \hbox (1.18304pt too wide) in paragraph at lines 224--231
 \OT1/ptm/m/n/10 iden-ti-fied sub-jec-tiv-ity as the un-der-ly-ing fac-tor that 
 in-flu-ences
  []
 
-
-Underfull \vbox (badness 2426) has occurred while \output is active []
-
+[7]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
@@ -543,445 +1037,512 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Overfull \hbox (5.33348pt too wide) in paragraph at lines 135--146
+Overfull \hbox (5.33348pt too wide) in paragraph at lines 248--259
 \OT1/ptm/m/n/10 con-tent could ex-plain most of retweet-ing be-hav-iors. Co-mar
 ela
  []
 
 
-Overfull \hbox (5.24327pt too wide) in paragraph at lines 135--146
+Overfull \hbox (5.24327pt too wide) in paragraph at lines 248--259
 \OT1/ptm/m/n/10 posed a feature-aware fac-tor-iza-tion model to rerank the twee
 ts
  []
 
-[2]
-Overfull \hbox (1.01292pt too wide) in paragraph at lines 162--171
+
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `Hannon:2010' on page 8 undefined on input line 266.
+
+
+LaTeX Warning: Citation `RamageEtAl:10' on page 8 undefined on input line 268.
+
+
+LaTeX Warning: Citation `Xu:2012MUP' on page 8 undefined on input line 269.
+
+
+LaTeX Warning: Citation `Pennacchiotti:icwsm11' on page 8 undefined on input li
+ne 270.
+
+[8]
+
+LaTeX Warning: Citation `Hu:2013www' on page 9 undefined on input line 277.
+
+
+LaTeX Warning: Citation `Jiang:2011TTS' on page 9 undefined on input line 278.
+
+
+LaTeX Warning: Citation `AsiaeeT:2012' on page 9 undefined on input line 279.
+
+
+LaTeX Warning: Citation `Hu:2013ESR' on page 9 undefined on input line 280.
+
+
+LaTeX Warning: Citation `CalaisGuerra:2011BOT' on page 9 undefined on input lin
+e 281.
+
+
+LaTeX Warning: Citation `Thelwall:2010SSS' on page 9 undefined on input line 28
+2.
+
+
+LaTeX Warning: Citation `Thelwall:2012SSD' on page 9 undefined on input line 28
+2.
+
+
+Overfull \hbox (1.01292pt too wide) in paragraph at lines 275--284
  []\OT1/ptm/m/it/10 Sentiment Anal-y-sis. [] \OT1/ptm/m/n/10 Sen-ti-ment anal-y
 -sis is a pop-u-lar re-search
  []
 
 
-Overfull \hbox (8.5431pt too wide) in paragraph at lines 162--171
-\OT1/ptm/m/n/10 with sen-ti-ment, and set-ting apart pos-i-tive from neg-a-tive
- tweets.
+Overfull \hbox (7.97298pt too wide) in paragraph at lines 275--284
+\OT1/ptm/m/n/10 Hu em-phet al. [\OT1/ptm/b/n/10 ?\OT1/ptm/m/n/10 ] ex-tracted s
+en-ti-ment re-la-tions be-tween tweets
  []
 
-[3]
-Overfull \hbox (11.09427pt too wide) in paragraph at lines 212--213
+
+Overfull \hbox (11.09427pt too wide) in paragraph at lines 325--326
 \OT1/ptm/m/n/10 on Twit-ter. Many fac-tors have been proved to in-flu-ence retw
 eet-
  []
 
 
-Overfull \hbox (6.17366pt too wide) in paragraph at lines 212--213
+Overfull \hbox (2.65318pt too wide) in paragraph at lines 325--326
+\OT1/ptm/m/n/10 mes-sage. There-fore we will study whether sub-jec-tiv-ity mode
+l
+ []
+
+
+Overfull \hbox (6.17366pt too wide) in paragraph at lines 325--326
 \OT1/ptm/m/n/10 can help un-der-stand-ing un-der-ly-ing rea-sons of a user's re
 tweet-
  []
 
-
-Overfull \hbox (7.06355pt too wide) in paragraph at lines 214--219
+[9]
+Overfull \hbox (7.06355pt too wide) in paragraph at lines 327--332
 \OT1/ptm/m/n/10 the users who might want to retweet it. We put a much stronger
  []
 
 
-Overfull \hbox (8.06276pt too wide) in paragraph at lines 250--254
+Overfull \hbox (8.06276pt too wide) in paragraph at lines 363--367
 \OT1/ptm/m/n/10 and re-quire lit-tle su-per-vi-sion. With state-of-the-art topi
 c model
  []
 
-[4]
+
+LaTeX Warning: Citation `Abel:2011AUM' on page 10 undefined on input line 372.
+
 Package epstopdf Info: Source file: <fig1.eps>
-(epstopdf)                    date: 2014-02-08 23:36:55
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 15484 bytes
 (epstopdf)             Output file: <fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-18 09:33:14
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 10283 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig1-eps-converted-to.pdf 
 fig1.eps>
-(epstopdf)             \includegraphics on input line 265.
+(epstopdf)             \includegraphics on input line 378.
 Package epstopdf Info: Output file is already uptodate.
- <fig1-eps-converted-to.pdf, id=202, 753.81625pt x 284.06125pt>
+<fig1-eps-converted-to.pdf, id=386, 753.81625pt x 284.06125pt>
 File: fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig1-eps-converted-to.pdf>
-Package pdftex.def Info: fig1-eps-converted-to.pdf used on input line 265.
+Package pdftex.def Info: fig1-eps-converted-to.pdf used on input line 378.
 (pdftex.def)             Requested size: 216.80676pt x 72.26778pt.
 
-Overfull \hbox (1.13312pt too wide) in paragraph at lines 258--272
+Overfull \hbox (1.13312pt too wide) in paragraph at lines 371--385
 \OT1/ptm/m/n/10 its con-tent. Pre-vi-ous stud-ies have tried to iden-tify top-i
 cs from
  []
 
+[10]
 
-Overfull \hbox (5.03279pt too wide) in paragraph at lines 286--291
+LaTeX Warning: Citation `Thelwall:2010SSS' on page 11 undefined on input line 3
+97.
+
+
+LaTeX Warning: Citation `Hu:2013www' on page 11 undefined on input line 397.
+
+
+LaTeX Warning: Citation `Thelwall:2010SSS' on page 11 undefined on input line 3
+99.
+
+
+Overfull \hbox (5.03279pt too wide) in paragraph at lines 399--404
 \OT1/ptm/m/n/10 set-tings. Sen-tiStrength as-signs two val-ues to each tweet st
 and-
  []
 
 
-Overfull \hbox (13.70357pt too wide) in paragraph at lines 286--291
+Overfull \hbox (13.70357pt too wide) in paragraph at lines 399--404
 \OT1/ptm/m/n/10 the con-ve-nience cal-cu-la-tion, we map the out-put of Sen-tiS
 trength
  []
 
 
-Overfull \hbox (3.3944pt too wide) in paragraph at lines 300--303
+Overfull \hbox (3.3944pt too wide) in paragraph at lines 413--416
 \OT1/ptm/m/n/10 neg-a-tive sent-ment value. In the sen-ti-ment va-lence space $
 \OT1/ztmcm/m/n/10 [0\OML/ztmcm/m/it/10 ; \OT1/ztmcm/m/n/10 8]$\OT1/ptm/m/n/10 ,
 
  []
 
 
-Overfull \hbox (3.97363pt too wide) in paragraph at lines 307--312
+Overfull \hbox (3.97363pt too wide) in paragraph at lines 420--425
 \OT1/ptm/m/n/10 struct Lo-cal Topic Space $\OML/ztmcm/m/it/10 T \OT1/ztmcm/m/n/
 10 = []$\OT1/ptm/m/n/10 . A topic model
  []
 
-[5pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.312 
-       <./fig1-eps-converted-to.pdf>]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 314.
+put line 427.
 
-Underfull \hbox (badness 1062) in paragraph at lines 333--334
+Underfull \hbox (badness 1062) in paragraph at lines 446--447
 [] []\OT1/ptm/m/n/8.5 topics of $\OML/ztmcm/m/it/8.5 m$ \OT1/ptm/m/n/8.5 can be
  iden-ti-fied by the topic model, $\OML/ztmcm/m/it/8.5 Z[] \OT1/ztmcm/m/n/8.5 =
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
 [] []\OT1/ptm/m/n/8.5 establishing sub-jec-tiv-ity model of user $\OML/ztmcm/m/
 it/8.5 u$\OT1/ptm/m/n/8.5 , $\OML/ztmcm/m/it/8.5 P [] \OT1/ztmcm/m/n/8.5 =
  []
 
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
 
-Overfull \hbox (9.4236pt too wide) in paragraph at lines 396--413
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.474 
+       <./fig1-eps-converted-to.pdf>]
+Overfull \hbox (9.4236pt too wide) in paragraph at lines 509--526
 \OT1/ptm/m/n/10 [[]], which was cre-ated with Twit-ter API[][][][][]. To form t
 he dataset,
  []
 
-[6]
 Package epstopdf Info: Source file: <fig2.eps>
-(epstopdf)                    date: 2014-02-14 20:53:37
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 24044 bytes
 (epstopdf)             Output file: <fig2-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-18 09:33:14
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 14589 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig2-eps-converted-to.pdf 
 fig2.eps>
-(epstopdf)             \includegraphics on input line 417.
+(epstopdf)             \includegraphics on input line 530.
 Package epstopdf Info: Output file is already uptodate.
- <fig2-eps-converted-to.pdf, id=274, 279.0425pt x 204.765pt>
+<fig2-eps-converted-to.pdf, id=428, 279.0425pt x 204.765pt>
 File: fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig2-eps-converted-to.pdf>
-Package pdftex.def Info: fig2-eps-converted-to.pdf used on input line 417.
+Package pdftex.def Info: fig2-eps-converted-to.pdf used on input line 530.
 (pdftex.def)             Requested size: 108.4046pt x 72.27184pt.
+ [12pdfTeX warning (ext4): destination with the same identifier (name{table.1})
+ has been already used, duplicate ignored
 
-Overfull \hbox (2.99998pt too wide) in paragraph at lines 429--430
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.541 \begin{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.541 \begin{itemize}
+                      <./fig2-eps-converted-to.pdf>]
+Overfull \hbox (2.99998pt too wide) in paragraph at lines 542--543
 []\OT1/ptm/b/n/10 TTF\OT1/ptm/m/n/10 : \OT1/ptm/b/n/10 T\OT1/ptm/m/n/10 opic si
 m-i-lar-ity be-tween \OT1/ptm/b/n/10 T\OT1/ptm/m/n/10 weet and \OT1/ptm/b/n/10 
 F\OT1/ptm/m/n/10 ollower ($\OML/ztmcm/m/it/10 ^^U \OT1/ztmcm/m/n/10 =
  []
 
 
-Overfull \hbox (5.10344pt too wide) in paragraph at lines 433--434
+Overfull \hbox (5.10344pt too wide) in paragraph at lines 546--547
 []\OT1/ptm/b/n/10 OAF\OT1/ptm/m/n/10 : \OT1/ptm/b/n/10 O\OT1/ptm/m/n/10 pinion 
 sim-i-lar-ity be-tween \OT1/ptm/b/n/10 P\OT1/ptm/m/n/10 ublisher and \OT1/ptm/b
 /n/10 F\OT1/ptm/m/n/10 ollower
  []
 
 
-Overfull \hbox (11.76326pt too wide) in paragraph at lines 434--435
+Overfull \hbox (11.76326pt too wide) in paragraph at lines 547--548
 []\OT1/ptm/b/n/10 SAF\OT1/ptm/m/n/10 : \OT1/ptm/b/n/10 S\OT1/ptm/m/n/10 ubjecti
 ve sim-i-lar-ity be-tween \OT1/ptm/b/n/10 P\OT1/ptm/m/n/10 ublisher and \OT1/pt
 m/b/n/10 F\OT1/ptm/m/n/10 ollower
  []
 
 Package epstopdf Info: Source file: <fig3.eps>
-(epstopdf)                    date: 2014-02-14 22:44:07
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 252947 bytes
 (epstopdf)             Output file: <fig3-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-18 09:33:15
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 39813 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig3-eps-converted-to.pdf 
 fig3.eps>
-(epstopdf)             \includegraphics on input line 444.
+(epstopdf)             \includegraphics on input line 557.
 Package epstopdf Info: Output file is already uptodate.
-<fig3-eps-converted-to.pdf, id=286, 845.1575pt x 597.23125pt>
+<fig3-eps-converted-to.pdf, id=475, 845.1575pt x 597.23125pt>
 File: fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig3-eps-converted-to.pdf>
-Package pdftex.def Info: fig3-eps-converted-to.pdf used on input line 444.
+Package pdftex.def Info: fig3-eps-converted-to.pdf used on input line 557.
 (pdftex.def)             Requested size: 216.80836pt x 144.54134pt.
 
-Overfull \hbox (7.65271pt too wide) in paragraph at lines 450--451
+Overfull \hbox (7.65271pt too wide) in paragraph at lines 563--564
 []\OT1/ptm/m/n/10 TTF score shows that a tweet is more likely to be retweeted
  []
 
 
-Overfull \hbox (7.4632pt too wide) in paragraph at lines 453--454
+Overfull \hbox (7.4632pt too wide) in paragraph at lines 566--567
 \OT1/ptm/m/n/10 au-thor with sim-i-lar in-ter-ests , which ver-i-fies the ho-mo
 phily
  []
 
 
-Overfull \hbox (11.25363pt too wide) in paragraph at lines 455--456
+Overfull \hbox (11.25363pt too wide) in paragraph at lines 568--569
 \OT1/ptm/m/n/10 retweet-ing, and we call this phe-nomenon ``tight ho-mophily''
  []
 
-[7pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
-as been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.456 \end{itemize}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{figure.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.456 \end{itemize}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{figure.3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.456 \end{itemize}
-                    <./fig2-eps-converted-to.pdf> <./fig3-eps-converted-to.pdf>
-]
 Package epstopdf Info: Source file: <fig4.eps>
-(epstopdf)                    date: 2014-02-14 22:51:37
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 173730 bytes
 (epstopdf)             Output file: <fig4-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-18 09:33:16
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 66066 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig4-eps-converted-to.pdf 
 fig4.eps>
-(epstopdf)             \includegraphics on input line 482.
+(epstopdf)             \includegraphics on input line 595.
 Package epstopdf Info: Output file is already uptodate.
- <fig4-eps-converted-to.pdf, id=316, 845.1575pt x 597.23125pt>
+<fig4-eps-converted-to.pdf, id=491, 845.1575pt x 597.23125pt>
 File: fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig4-eps-converted-to.pdf>
-Package pdftex.def Info: fig4-eps-converted-to.pdf used on input line 482.
+Package pdftex.def Info: fig4-eps-converted-to.pdf used on input line 595.
 (pdftex.def)             Requested size: 252.94308pt x 158.99457pt.
 
-Overfull \hbox (13.97891pt too wide) in paragraph at lines 482--483
+Overfull \hbox (13.97891pt too wide) in paragraph at lines 595--596
  [][] 
  []
 
 
-Overfull \hbox (5.24356pt too wide) in paragraph at lines 475--487
+Overfull \hbox (5.24356pt too wide) in paragraph at lines 588--600
 \OT1/ptm/m/n/10 Ac-cu-racy is our eval-u-a-tion met-ric. Per-for-mances of our 
 model
  []
 
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+ has been already used, duplicate ignored
 
-Overfull \hbox (14.20311pt too wide) in paragraph at lines 488--493
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.600 
+       <./fig3-eps-converted-to.pdf>]
+Overfull \hbox (14.20311pt too wide) in paragraph at lines 601--606
 \OT1/ptm/m/n/10 to TTF (Topic sim-i-lar-ity be-tween Tweet and Fol-low-ers, 63.
 88%)
  []
 
 
-Overfull \hbox (10.97368pt too wide) in paragraph at lines 500--527
+Overfull \hbox (10.97368pt too wide) in paragraph at lines 613--640
 \OT1/ptm/m/n/10 line (marked as ``RB''), for which fol-low-ers who have retweet
 ed
  []
 
-[8pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
-has been already used, duplicate ignored
+
+Underfull \vbox (badness 2221) has occurred while \output is active []
+
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.527 
+l.648 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.648 
        <./fig4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <fig5.eps>
-(epstopdf)                    date: 2014-02-14 22:15:57
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 1729454 bytes
 (epstopdf)             Output file: <fig5-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-18 09:33:17
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 370946 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig5-eps-converted-to.pdf 
 fig5.eps>
-(epstopdf)             \includegraphics on input line 544.
+(epstopdf)             \includegraphics on input line 657.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig5-eps-converted-to.pdf, id=339, 845.1575pt x 586.19pt>
+<fig5-eps-converted-to.pdf, id=525, 845.1575pt x 586.19pt>
 File: fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig5-eps-converted-to.pdf>
-Package pdftex.def Info: fig5-eps-converted-to.pdf used on input line 544.
+Package pdftex.def Info: fig5-eps-converted-to.pdf used on input line 657.
 (pdftex.def)             Requested size: 397.4949pt x 231.26076pt.
 Package epstopdf Info: Source file: <fig6.eps>
-(epstopdf)                    date: 2014-02-14 22:03:39
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 1685524 bytes
 (epstopdf)             Output file: <fig6-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-18 09:33:19
+(epstopdf)                    date: 2014-05-07 10:42:38
 (epstopdf)                    size: 359983 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig6-eps-converted-to.pdf 
 fig6.eps>
-(epstopdf)             \includegraphics on input line 551.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig6-eps-converted-to.pdf, id=343, 677.53125pt x 592.2125pt>
+<fig6-eps-converted-to.pdf, id=529, 677.53125pt x 592.2125pt>
 File: fig6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig6-eps-converted-to.pdf>
-Package pdftex.def Info: fig6-eps-converted-to.pdf used on input line 551.
+Package pdftex.def Info: fig6-eps-converted-to.pdf used on input line 664.
 (pdftex.def)             Requested size: 231.26733pt x 144.53758pt.
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ô in font ptmri7t!
 
-Overfull \hbox (0.7634pt too wide) in paragraph at lines 564--567
+Overfull \hbox (0.7634pt too wide) in paragraph at lines 677--680
 \OT1/ptm/m/n/10 user retweet-ing be-hav-ior on Twit-ter. We as-sume that retwee
 t-
  []
 
 
-Overfull \hbox (4.46254pt too wide) in paragraph at lines 564--567
+Overfull \hbox (4.46254pt too wide) in paragraph at lines 677--680
 \OT1/ptm/m/n/10 lever-ag-ing sta-tis-ti-cal topic model and sen-ti-ment anal-y-
 sis tech-
  []
 
 
-Overfull \hbox (3.81305pt too wide) in paragraph at lines 564--567
+Overfull \hbox (3.81305pt too wide) in paragraph at lines 677--680
 \OT1/ptm/m/n/10 retweet-ing anal-y-sis prob-lem and show that sub-jec-tiv-ity m
 odel
  []
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{table.2}) h
-as been already used, duplicate ignored
+(./submodel.bbl [15pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.571 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-6}) has been already used, duplicate ignored
+l.43 \bibitem{brody2011col}
+                            <./fig6-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--49
+[]\OT1/ptm/m/n/8.5 Brody, S., Di-akopou-los, N.: Coooooooooooooool-l-l-l-l-l-l-
+l-l-l-l-
+ []
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.571 
-       <./fig6-eps-converted-to.pdf>] (./submodel.bbl
-Underfull \hbox (badness 1038) in paragraph at lines 63--68
+
+Underfull \hbox (badness 1442) in paragraph at lines 44--49
+\OT1/ptm/m/n/8.5 cal Meth-ods in Nat-u-ral Lan-guage Pro-cess-ing, pp. 562--570
+.
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 104--109
 \OT1/ptm/m/n/8.5 sub-jec-tive time, and other minds.  Jour-nal of Ex-per-i-men-
 tal
  []
 
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.107 
-       <./fig5-eps-converted-to.pdf>]
-Underfull \hbox (badness 2426) in paragraph at lines 148--154
+l.165 \bibitem{jo2011aspect}
+                             <./fig5-eps-converted-to.pdf>]
+Underfull \hbox (badness 2426) in paragraph at lines 247--253
 []\OT1/ptm/m/n/8.5 Macskassy, S.A., Michel-son, M.: Why do peo-ple retweet?
  []
 
 
-Underfull \hbox (badness 5077) in paragraph at lines 148--154
+Underfull \hbox (badness 5077) in paragraph at lines 247--253
 \OT1/ptm/m/n/8.5 anti-homophily wins the day!  In: L.A. Adamic, R.A.
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 148--154
+Underfull \hbox (badness 4120) in paragraph at lines 247--253
 \OT1/ptm/m/n/8.5 Baeza-Yates, S. Counts (eds.) ICWSM. The AAAI Press
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 156--162
-\OT1/ptm/m/n/8.5 Ho-mophily in so-cial net-works.  An-nual Re-view of So-ci-ol-
-
- []
-
-
-Underfull \hbox (badness 7576) in paragraph at lines 164--169
+Underfull \hbox (badness 7576) in paragraph at lines 281--286
 []\OT1/ptm/m/n/8.5 Moore, J., Hag-gard, P.: Aware-ness of ac-tion: In-fer-ence
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 164--169
+Underfull \hbox (badness 1701) in paragraph at lines 281--286
 \OT1/ptm/m/n/8.5 and pre-dic-tion.  Con-scious-ness and Cog-ni-tion \OT1/ptm/b/
 n/8.5 17\OT1/ptm/m/n/8.5 (1), 136--
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 164--169
+Underfull \hbox (badness 4303) in paragraph at lines 281--286
 \OT1/ptm/m/n/8.5 144 (2008).  DOI $10 . 1016 / j . concog . 2006 . 12 . 004$.  
 URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--169
+Underfull \hbox (badness 10000) in paragraph at lines 281--286
 [][]$\OT1/cmtt/m/n/8.5 http : / / search . ebscohost . com / login . aspx ? dir
 ect =
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--256
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 413--421
 \OT1/ptm/m/n/8.5 URL [][]$\OT1/cmtt/m/n/8.5 http : / / ieeexplore . ieee . org 
 / lpdocs / epic03 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--256
+Underfull \hbox (badness 10000) in paragraph at lines 413--421
 \OT1/cmtt/m/n/8.5 wrapper . htm ? arnumber = 5590452http : / / dx . doi . org /
  10 .
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 278--284
+Underfull \hbox (badness 1314) in paragraph at lines 465--471
 []\OT1/ptm/m/n/8.5 Weng, J., Lim, E.P., Jiang, J., He, Q.: Twit-ter-rank: find-
 ing
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 278--284
+Underfull \hbox (badness 1365) in paragraph at lines 465--471
 \OT1/ptm/m/n/8.5 N. Craswell, B.L. 0001 (eds.) WSDM, pp. 261--270. ACM
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 295--301
+Underfull \hbox (badness 2799) in paragraph at lines 485--491
 []\OT1/ptm/m/n/8.5 Yang, Z., Guo, J., Cai, K., Tang, J., Li, J., 0007, L.Z.,
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 295--301
+Underfull \hbox (badness 3503) in paragraph at lines 485--491
 \OT1/ptm/m/n/8.5 Su, Z.: Un-der-stand-ing retweet-ing be-hav-iors in so-cial ne
 t-
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 295--301
+Underfull \hbox (badness 2469) in paragraph at lines 485--491
 \OT1/ptm/m/n/8.5 works.  In: J. Huang, N. Koudas, G.J.F. Jones, X. Wu,
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 589.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 589.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 702.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 702.
  (./submodel.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 589.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 702.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 702.
 Package rerunfilecheck Info: File `submodel.out' has not changed.
-(rerunfilecheck)             Checksum: 35492489DDBEF672B733174E0D407A86;238.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 589.
+(rerunfilecheck)             Checksum: 96E060F836E8F1F0F3B8CEEB42DAF804;286.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 702.
  ) 
 Here is how much of TeX's memory you used:
- 7380 strings out of 493307
- 107384 string characters out of 6139905
- 204757 words of memory out of 5000000
- 10566 multiletter control sequences out of 15000+600000
+ 7490 strings out of 494724
+ 109573 string characters out of 6174698
+ 200123 words of memory out of 5000000
+ 10516 multiletter control sequences out of 15000+600000
  51955 words of font info for 124 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 29i,12n,33p,512b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102 hyphenation exceptions out of 8191
+ 29i,12n,33p,3153b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -992,10 +1553,10 @@ bol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on submodel.pdf (11 pages, 1016820 bytes).
+Output written on submodel.pdf (18 pages, 1056233 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 387 compressed objects within 4 object streams
- 114 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 671 PDF objects out of 1000 (max. 8388607)
+ 499 compressed objects within 5 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 

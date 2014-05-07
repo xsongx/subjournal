@@ -13,50 +13,66 @@ A bad cross reference---entry "conf/icwsm/PfitznerGS12"
 refers to entry "conf/icwsm/2012", which doesn't exist
 A bad cross reference---entry "conf/wsdm/WengLJH10"
 refers to entry "conf/wsdm/2010", which doesn't exist
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Abel:2011AUM"
+Warning--I didn't find a database entry for "Pennacchiotti:icwsm11"
+Warning--I didn't find a database entry for "Hannon:2010"
+Warning--I didn't find a database entry for "RamageEtAl:10"
+Warning--I didn't find a database entry for "Xu:2012MUP"
+Warning--I didn't find a database entry for "Hu:2013www"
+Warning--I didn't find a database entry for "Jiang:2011TTS"
+Warning--I didn't find a database entry for "AsiaeeT:2012"
+Warning--I didn't find a database entry for "Hu:2013ESR"
+Warning--I didn't find a database entry for "CalaisGuerra:2011BOT"
+Warning--I didn't find a database entry for "Thelwall:2010SSS"
+Warning--I didn't find a database entry for "Thelwall:2012SSD"
 Warning--I didn't find a database entry for "conf/wsdm/2010"
 Warning--I didn't find a database entry for "conf/cikm/2010"
 Warning--I didn't find a database entry for "conf/icwsm/2012"
 Warning--I didn't find a database entry for "conf/wsdm/2013"
 Warning--I didn't find a database entry for "conf/icwsm/2011"
-You've used 39 entries,
+Warning--empty journal in mimno2007expertise
+Warning--empty booktitle in saif2012alleviating
+Warning--empty journal in tchokni2014emoticons
+You've used 83 entries,
             2946 wiz_defined-function locations,
-            932 strings with 16172 characters,
-and the built_in function-call counts, 39381 in all, are:
-= -- 4755
-> -- 856
-< -- 24
-+ -- 532
-- -- 305
-* -- 1818
-:= -- 3716
-add.period$ -- 116
-call.type$ -- 39
-change.case$ -- 316
+            1114 strings with 23607 characters,
+and the built_in function-call counts, 78786 in all, are:
+= -- 9559
+> -- 1621
+< -- 58
++ -- 1033
+- -- 575
+* -- 3374
+:= -- 7371
+add.period$ -- 164
+call.type$ -- 83
+change.case$ -- 648
 chr.to.int$ -- 0
-cite$ -- 39
-duplicate$ -- 4320
-empty$ -- 2413
-format.name$ -- 347
-if$ -- 8341
+cite$ -- 86
+duplicate$ -- 8709
+empty$ -- 4962
+format.name$ -- 655
+if$ -- 16835
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 483
-newline$ -- 215
-num.names$ -- 88
-pop$ -- 1603
+int.to.str$ -- 83
+missing$ -- 897
+newline$ -- 364
+num.names$ -- 178
+pop$ -- 3305
 preamble$ -- 1
-purify$ -- 220
+purify$ -- 442
 quote$ -- 0
-skip$ -- 2325
+skip$ -- 4876
 stack$ -- 0
-substring$ -- 1846
-swap$ -- 3680
-text.length$ -- 24
+substring$ -- 3811
+swap$ -- 7281
+text.length$ -- 58
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 152
-warning$ -- 0
-while$ -- 194
-width$ -- 41
-write$ -- 533
+type$ -- 324
+warning$ -- 3
+while$ -- 414
+width$ -- 85
+write$ -- 931
 (There were 5 error messages)
