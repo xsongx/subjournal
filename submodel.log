@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.4)  7 MAY 2014 11:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.7)  11 MAY 2014 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **submodel.tex
 (./submodel.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 12 languages loaded.
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
 
@@ -1135,10 +1135,10 @@ c model
 LaTeX Warning: Citation `Abel:2011AUM' on page 10 undefined on input line 372.
 
 Package epstopdf Info: Source file: <fig1.eps>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 15484 bytes
 (epstopdf)             Output file: <fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 10283 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig1-eps-converted-to.pdf 
 fig1.eps>
@@ -1221,10 +1221,10 @@ he dataset,
  []
 
 Package epstopdf Info: Source file: <fig2.eps>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 24044 bytes
 (epstopdf)             Output file: <fig2-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 14589 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig2-eps-converted-to.pdf 
 fig2.eps>
@@ -1270,10 +1270,10 @@ m/b/n/10 F\OT1/ptm/m/n/10 ollower
  []
 
 Package epstopdf Info: Source file: <fig3.eps>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 252947 bytes
 (epstopdf)             Output file: <fig3-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 39813 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig3-eps-converted-to.pdf 
 fig3.eps>
@@ -1302,10 +1302,10 @@ Overfull \hbox (11.25363pt too wide) in paragraph at lines 568--569
  []
 
 Package epstopdf Info: Source file: <fig4.eps>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 173730 bytes
 (epstopdf)             Output file: <fig4-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 66066 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig4-eps-converted-to.pdf 
 fig4.eps>
@@ -1363,10 +1363,10 @@ l.648
 l.648 
        <./fig4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <fig5.eps>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 1729454 bytes
 (epstopdf)             Output file: <fig5-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 370946 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig5-eps-converted-to.pdf 
 fig5.eps>
@@ -1380,10 +1380,10 @@ File: fig5-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: fig5-eps-converted-to.pdf used on input line 657.
 (pdftex.def)             Requested size: 397.4949pt x 231.26076pt.
 Package epstopdf Info: Source file: <fig6.eps>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 1685524 bytes
 (epstopdf)             Output file: <fig6-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-05-07 10:42:38
+(epstopdf)                    date: 2014-05-11 15:13:42
 (epstopdf)                    size: 359983 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig6-eps-converted-to.pdf 
 fig6.eps>
@@ -1536,12 +1536,12 @@ Package rerunfilecheck Info: File `submodel.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 702.
  ) 
 Here is how much of TeX's memory you used:
- 7490 strings out of 494724
- 109573 string characters out of 6174698
- 200123 words of memory out of 5000000
- 10516 multiletter control sequences out of 15000+600000
+ 7490 strings out of 493304
+ 109573 string characters out of 6139872
+ 203862 words of memory out of 5000000
+ 10627 multiletter control sequences out of 15000+600000
  51955 words of font info for 124 fonts, out of 8000000 for 9000
- 102 hyphenation exceptions out of 8191
+ 957 hyphenation exceptions out of 8191
  29i,12n,33p,3153b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
