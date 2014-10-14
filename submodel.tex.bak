@@ -86,6 +86,13 @@ and features derived from subjectivity model  give the most significant improvem
 \section{Introduction}
 \label{intro}
 
+
+
+Some lexicons can additionally provide a sentiment score for a term to indicate its strength of evaluative intensity. Higher
+scores indicate greater intensity. For example, an entry great (positive, 1.2) states that the word great has positive polarity with the sentiment score of 1.2. An entry acceptable (positive, 0.1) specifies that the word acceptable has positive polarity and its intensity is lower than that of the word great.
+
+Using WordNet 3.0 (147,278 word types) supplemented with a large list of stop words (571 words) as a repository of English-language words, we found that about 45\% of the vocabulary in the tweet datasets are out-of-dictionary terms.
+
 They provide access to a very vast source of information on an unprecedented scale. \textit{De facto}, an online social network (OSN) can be described as a user-generated content system that permits its users to communicate and share information.
 Messages are the main information vehicle in such services. Users publish messages to share or for-ward various kinds of information, such as product recommendations, political opinions, ideas, etc.
 More data about social behavior is now available than ever
