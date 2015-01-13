@@ -86,7 +86,8 @@ and features derived from subjectivity model  give the most significant improvem
 \section{Introduction}
 \label{intro}
 
-
+Massive amounts of data are being generated on social media sites, such as Twitter and Facebook. These data can be used to better understand people (e.g., personality traits, perceptions, and preferences) and predict their behavior. As a result, a deeper understanding of users and their behavior can benefit a wide range of intelligent applications,
+such as advertising, social recommender systems, and personalized knowledge management. These applications will also benefit individual users themselves and optimize their experience across a wide variety of domains, such as retail, healthcare, and education. Since mining and understanding user behavior from social media often requires interdisciplinary effort, including machine learning, text mining, human-computer interaction, and social science,
 
 Some lexicons can additionally provide a sentiment score for a term to indicate its strength of evaluative intensity. Higher
 scores indicate greater intensity. For example, an entry great (positive, 1.2) states that the word great has positive polarity with the sentiment score of 1.2. An entry acceptable (positive, 0.1) specifies that the word acceptable has positive polarity and its intensity is lower than that of the word great.
@@ -199,6 +200,7 @@ very informal slang including profanity. Furthermore, the vocabulary used can ch
 These difficulties do not apply to sentiment analysis exclusively, but are also of concern for other natural language processing tools, such as part-of- speech taggers, parsers and the like.
 
 
+Microblog is a web-based service that provides an easy and lightweight way of communication for users.
 
 There’re two important factors that should be taken into consider- ations. One, opinions and topics are closely related.The online discussions around some entity, or object, often cover a mixture of features/topics related to that entity with different preferentials. Different opinions may be expressed by users towards different topics, where users may like some aspects of an entity but dislike other aspects. Two, users’ opinions are subject to social influence. The rise of social media puts the sentiment analysis in the context of social network. Users not only express their individual opinions, but also exchange opinions with others. In the context of opinion mining, social influence refers to the phenomenon that one is inclined to agree (positive influence) or disagree (negative influence) with his/her neighbors’ opinions with different degrees, depending on the influence strengths.\cite{li2012mining}
 
